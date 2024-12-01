@@ -1,4 +1,4 @@
-#Toy Challenges
+# Toy Challenges
 
 ## 1. Student Grade Generator
 This is a simple Student Grade Generator in JavaScript that calculates 
